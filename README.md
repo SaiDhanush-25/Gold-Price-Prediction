@@ -20,8 +20,12 @@ Algorithm: Random Forest Regression
 
 
 Why Random Forest?
+
 *Handles non-linear relationships well
+
 *Reduces overfitting compared to decision trees
+
+
 *Provides feature importance scores.
 
 
