@@ -5,6 +5,10 @@ This project uses the Random Forest Regression algorithm to predict gold prices 
 Source: Kaggle.com
 Features: Includes date, gold price, market index values, currency exchange rates, etc.
 Preprocessing: Data cleaning, handling missing values, feature scaling, and train-test split.
+
+
+
+
 📊 Model & Approach
 Algorithm: Random Forest Regression
 Why Random Forest?
